@@ -1,0 +1,9 @@
+{
+    "focus_duration": 1800,
+    "break_duration": 420,
+    "volume": 100,
+    "opacity": 0.9,
+    "window_x": 1025,
+    "window_y": 173,
+    "sound_path": "D:/SYEYE/assets/alert.wav"
+}
