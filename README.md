@@ -43,8 +43,8 @@
 
 ## 🖥️ Interface Preview / شكل البرنامج
 
-*(You can add a screenshot of your app here later)*
-![SYEYE Interface](assets/preview.png)
+
+![SYEYE Interface](SYEYE/assets/preview.png)
 
 ---
 
